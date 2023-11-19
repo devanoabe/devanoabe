@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 32px;">Let's Connect and have a Chat!</span>
+  <img src="https://capsule-render.vercel.app/api?ext=Hello%Guys!&fontAlign=75"/>
 </p>
 
 ### Hi there 👋
