@@ -17,7 +17,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
   <a href="https://discord.gg/#0496">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <img height="50" src="https://github.com/devanoabe/devanoabe/assets/42015186/d9a8911f-f2b6-4ace-b1cf-4989297cd154"/>
   </a>
 </p>
 
