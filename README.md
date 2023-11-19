@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?ext=Hello%Guys!&fontAlign=75"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%Guys!&fontAlign=75"/>
 </p>
 
 ### Hi there 👋
