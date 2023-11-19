@@ -25,26 +25,23 @@
   <img src= "https://media.giphy.com/media/w7CP59oLYw6PK/giphy.webp">
 </p>
 
-Hi there 👋
+<h3> 👨A Little Bit About Me and My Interests</h3>
+
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Devano Abe
+located_in: Malang, Indonesia
+current_job: Polytechnic Student
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Diploma in Informatics Engineering",
   ]
-company: Soulber
+company: Politeknik Negeri Malang
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
     "UI/UX",
-    "Game Development",
+    "Mobile Development",
     "DevOps",
   ]
 technical_background:
