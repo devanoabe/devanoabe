@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://giphy.com/gifs/food-naruto-w7CP59oLYw6PK">
+  <img src= "https://media.giphy.com/media/w7CP59oLYw6PK/giphy.gif">
 </p>
 
 ### Hi there 👋
